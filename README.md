@@ -9,5 +9,5 @@ These configuration files are used for the UNF-AIRO workshops, and projects.
 # Installation
 
 ```shell
-git clone https://.github.com/UNF-AIRO/dotfiles
+git clone https://github.com/UNF-AIRO/dotfiles
 ```
